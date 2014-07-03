@@ -16,7 +16,8 @@ time-consuming garbage collection, and it can be better optimized by Just-In-Tim
 compilers that are standard in modern browsers.  You can even target experiemntal
 Ahead-Of-Time compilers if you fully conform to the asm.js style.
 
-- Sugar is a technology developed by PandaStrike.  http://www.pandastrike.com
+- Copyright 2014 by PandaStrike  http://www.pandastrike.com
+- This project is released under the MIT License
 - LLJS Project Homepage:  http://mbebenita.github.io/LLJS/
 
 To Do List:
